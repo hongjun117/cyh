@@ -11,19 +11,19 @@
   <key>kind</key> 
   <string>software-package</string> 
   <key>url</key> 
-  <string>http://ipa.cxql.cn/Msjw.ipa</string> 
+  <string>http://ipa.cxql.cn/iCarClient.ipa</string> 
   </dict>
   </array>
   <key>metadata</key> 
 <dict>
   <key>bundle-identifier</key> 
-  <string>com.jnzy.police</string> 
+  <string>com.jnzy.test</string> 
   <key>kind</key> 
   <string>software</string> 
   <key>subtitle</key> 
   <string>iPhone端</string> 
   <key>title</key> 
-  <string>民生警务</string> 
+  <string>车微联</string> 
   </dict>
   </dict>
   </array>
